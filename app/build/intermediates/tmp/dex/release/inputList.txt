@@ -1,0 +1,6 @@
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\classes\release
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-43134ce07a64938af78e6a5ded141e0e0c0901c4.jar
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-abb8d1cbb6d04fb98a5bd54a24db3a2be57fa977.jar
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-2c6763e5a527bf36bf09611e91d8986c0b5ae826.jar
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-8a7fb48ca63aaa43628113d0632e6ce8821e9ebd.jar
+D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-573223ae671c604bb697e4495c81607cf7636e30.jar

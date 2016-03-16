@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vinser\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-43134ce07a64938af78e6a5ded141e0e0c0901c4.jar" />
+    </item>
+    <item
+        jar="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\exploded-aar\flironesdk\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c89f82573cb34767f3279a02cb7b7996bfc76fd">
+        <dex dex="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-abb8d1cbb6d04fb98a5bd54a24db3a2be57fa977.jar" />
+    </item>
+    <item
+        jar="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-2c6763e5a527bf36bf09611e91d8986c0b5ae826.jar" />
+    </item>
+    <item
+        jar="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-8a7fb48ca63aaa43628113d0632e6ce8821e9ebd.jar" />
+    </item>
+    <item
+        jar="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\FRAV\FLIR_ONE\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\release\classes-573223ae671c604bb697e4495c81607cf7636e30.jar" />
+    </item>
+
+</items>
